@@ -24,10 +24,6 @@ Try it now on Hugging Face Spaces:
  [Click here to open the app](https://huggingface.co/spaces/Nayanhf/motivation_speech)
 
 ---
-## Screenshot
-![App Screenshot](screenshot.png)
-
----
 ## 🛠 How It Works
 
 1. User selects a mood
